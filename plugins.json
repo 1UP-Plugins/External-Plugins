@@ -1,13 +1,13 @@
 [{"projectUrl":"https://discord.gg/9fGzEDR",
   "provider":"OneUPPlugins",
   "name":"OneUPPVP",
-  "description":"Illumine - Barb Fishing plugin",
+  "description":"OneUPPlugins-Test",
   "id":"OneUPPVP-plugin",
   "releases":
   [{"date":"2021-03-06",
     "sha512sum":"703A15E4983089030A7E9BDE98D2EB03DF1C07D356949B3B5C726586781B90C00CE1CEEADB27CC0CC414DABAF0D2424BAE8FCDF4CC1DB34019BE2DFC44B3C4A7",
     "version":"1.3.0",
-    "url":"https://github.com/illumineawake/illu-plugins/blob/master/release/ibarbfishing-1.3.0.jar?raw=true",
+    "url":"https://github.com/1UP-Plugins/External-Plugins/blob/main/Release/FriendTagging/friendtagging-5.0.0.jar?raw=true",
     "requires":"^1.0.0"}]}
 
   ]
