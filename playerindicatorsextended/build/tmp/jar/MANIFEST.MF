@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Plugin-Version: 5.0.3
+Plugin-Id: playerindicatorsextended-plugin
+Plugin-Provider: 1up-plugins
+Plugin-Description: Highlight players on-screen and/or on the minimap
+Plugin-License: 3-Clause BSD License
+
